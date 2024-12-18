@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADDRESS_SEARCH_API_KEY</key>
+	<string>$(ADDRESS_SEARCH_API_KEY)</string>
+	<key>ADDRESS_SEARCH_BASE_URL</key>
+	<string>$(ADDRESS_SEARCH_BASE_URL)</string>
+	<key>CARRU_AI_SERVER_BASE_URL</key>
+	<string>$(CARRU_AI_SERVER_BASE_URL)</string>
+	<key>CARRU_SERVER_BASE_URL</key>
+	<string>$(CARRU_SERVER_BASE_URL)</string>
+	<key>GEO_CODER_API_KEY</key>
+	<string>$(GEO_CODER_API_KEY)</string>
+	<key>GEO_CODER_BASE_URL</key>
+	<string>$(GEO_CODER_BASE_URL)</string>
+	<key>KAKAO_MAP_ADMIN_API_KEY</key>
+	<string>$(KAKAO_MAP_ADMIN_API_KEY)</string>
+	<key>KAKAO_MAP_API_KEY</key>
+	<string>$(KAKAO_MAP_API_KEY)</string>
+	<key>KAKAO_MAP_OWNER_API_KEY</key>
+	<string>$(KAKAO_MAP_OWNER_API_KEY)</string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>PretendardVariable.ttf</string>
+		<string>Pretendard-Bold.otf</string>
+		<string>Pretendard-ExtraBold.otf</string>
+		<string>Pretendard-Black.otf</string>
+		<string>Pretendard-ExtraLight.otf</string>
+		<string>Pretendard-Light.otf</string>
+		<string>Pretendard-Medium.otf</string>
+		<string>Pretendard-Regular.otf</string>
+		<string>Pretendard-SemiBold.otf</string>
+		<string>Pretendard-Thin.otf</string>
+	</array>
+</dict>
+</plist>
