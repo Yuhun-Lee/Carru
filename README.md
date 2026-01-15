@@ -8,7 +8,7 @@
 
 **화물 운송 산업의 비효율성을 해결하는 종합 물류 플랫폼**
 
-[프로젝트 개요](#-프로젝트-개요) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [시작하기](#-시작하기) • [아키텍처](#-시스템-아키텍처)
+[프로젝트 개요](#-프로젝트-개요) • [주요 기능](#-주요-기능) • [기술 스택](#-기술-스택) • [아키텍처](#-시스템-아키텍처)
 
 <img src="https://img.shields.io/badge/iOS-14.0+-000000?style=flat-square&logo=apple&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-5.5+-F05138?style=flat-square&logo=swift&logoColor=white" />
